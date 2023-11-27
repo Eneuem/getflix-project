@@ -11,6 +11,7 @@ echo('Hekko World');
     <title>Document</title>
 </head>
 <body>
-    <div class="w-10 h-10 bg-orange-500"></div>    
+    <?php include("header.php"); ?>
+    <?php include("footer.php"); ?>
 </body>
 </html>
